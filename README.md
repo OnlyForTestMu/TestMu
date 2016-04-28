@@ -8,5 +8,4 @@
 
 4. Hello, flower
 
-
-3. Hello, tree
+6. Hello, tree
