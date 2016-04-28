@@ -9,3 +9,5 @@
 4. Hello, flower
 
 6. Hello, tree
+
+7. Hello, car
